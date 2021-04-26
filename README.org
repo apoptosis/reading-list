@@ -1,0 +1,16 @@
+#+TITLE:README
+#+AUTHOR:LiquidZulu
+#+DATE:2021-04-24 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Introduction
+This repo is my attempt at a [[https://reactjs.org/][React]]-based reading list built from .org source files, implementing a similar style to the image below using [[https://react-ecs.ldlework.com][react-ecs]].
+[[./img/ancap.png]]
+
+* Contributing
+** .org syntax
+
+** .org -> .json
+This project uses =ox-json= to export orgfiles to json to allow for easier parsing by Node, you may use any number of other packages that export to json so long as they are in a compatible format with those produced by =ox-json=.
+** TS
+If you make changes to this repo please do them to the TS source rather than to the JS.

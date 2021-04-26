@@ -1,0 +1,1102 @@
+{
+"$$data_type": "org-document",
+"properties": {
+"title": [
+"Libertarianism Reading List"
+],
+"filetags": [],
+"author": [
+"LiquidZulu"
+],
+"creator": "Emacs 27.1 (Org mode 9.5)",
+"date": [
+"2021-04-24 GMT Summer Time"
+],
+"description": [],
+"email": "liquidzulu@pm.me",
+"language": "en"
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org493b4a2",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "keyword",
+"ref": "orgaf1620c",
+"properties": {
+"key": "TITLE",
+"value": "Libertarianism Reading List",
+"post-blank": 0,
+"post-affiliated": 1
+},
+"contents": []
+},
+{
+"$$data_type": "org-node",
+"type": "keyword",
+"ref": "orgb0a4a9b",
+"properties": {
+"key": "AUTHOR",
+"value": "LiquidZulu",
+"post-blank": 0,
+"post-affiliated": 37
+},
+"contents": []
+},
+{
+"$$data_type": "org-node",
+"type": "keyword",
+"ref": "org2afece6",
+"properties": {
+"key": "DATE",
+"value": "2021-04-24 GMT Summer Time",
+"post-blank": 0,
+"post-affiliated": 57
+},
+"contents": []
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org6f5866d",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 91
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "italic",
+"ref": "org8ca79e5",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"This file is best viewed in ",
+{
+"$$data_type": "org-node",
+"type": "link",
+"ref": "orgc512f66",
+"properties": {
+"type": "https",
+"path": "//www.gnu.org/software/emacs/",
+"format": "bracket",
+"raw-link": "https://www.gnu.org/software/emacs/",
+"application": null,
+"search-option": null,
+"post-blank": 0,
+"is-internal": false,
+"target-ref": null,
+"is-inline-image": false
+},
+"contents": [
+"emacs"
+]
+},
+"!"
+]
+},
+"\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org7039cf6",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Novice",
+"pre-blank": 0,
+"level": 1,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 170,
+"title": [
+"Novice"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org530eec0",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "group-0",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 179,
+"title": [
+"group-0"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgd74b6e7",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "teac",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 190,
+"title": [
+"teac"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgc39262e",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "title",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 199,
+"title": [
+"title"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org310d529",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 210
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org37c19af",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 210
+},
+"contents": [
+"The Ethics of Anarcho-Capitalism\n"
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org785d2f7",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "author",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 243,
+"title": [
+"author"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org208b5fd",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 255
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org60792f7",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 255
+},
+"contents": [
+"Kristopher A. Borer\n"
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgf1f7b9a",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "FLAGS",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 275,
+"title": [
+"FLAGS"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgea1d740",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 286
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "plain-list",
+"ref": "org70f7e41",
+"properties": {
+"type": "ordered",
+"structure": [
+[
+286,
+0,
+"1. ",
+null,
+null,
+null,
+300
+],
+[
+300,
+0,
+"2. ",
+null,
+null,
+null,
+313
+]
+],
+"post-blank": 0,
+"post-affiliated": 286
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "item",
+"ref": "orga623eb4",
+"properties": {
+"bullet": "1. ",
+"checkbox": null,
+"counter": null,
+"pre-blank": 0,
+"post-blank": 0,
+"post-affiliated": 286,
+"tag": []
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org3f6d22c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 289
+},
+"contents": [
+"CAT",
+{
+"$$data_type": "org-node",
+"type": "subscript",
+"ref": "org49e5cc2",
+"properties": {
+"use-brackets-p": false,
+"post-blank": 0
+},
+"contents": [
+"ETHICS"
+]
+},
+"\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "item",
+"ref": "org6ee58e5",
+"properties": {
+"bullet": "2. ",
+"checkbox": null,
+"counter": null,
+"pre-blank": 0,
+"post-blank": 0,
+"post-affiliated": 300,
+"tag": []
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org4cfdc12",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 303
+},
+"contents": [
+"MANDATORY\n"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org57c268a",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "desc",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 313,
+"title": [
+"desc"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org2f4366d",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 323
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgf042ba7",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 323
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "italic",
+"ref": "org3ab4dbe",
+"properties": {
+"post-blank": 1
+},
+"contents": [
+"The Ethics of Anarcho-Capitalism"
+]
+},
+"is my favourite libertarian book, if I could reccommend only a single book to goldpill a person this would be it. It is a narrative non-fiction book about libertarianism. It combines praxeology and storytelling to develop ethics in a way that is simple, robust, and fun.\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org56dcd04",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 630
+},
+"contents": [
+"Whether you want a clear introduction or a more advanced understanding, this book will shed libertarianism in a new light.\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgddc561e",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 754
+},
+"contents": [
+"Here’s what others are saying:\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgd9193a9",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 786
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgb4c4144",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 800
+},
+"contents": [
+"This is an excellent book on anarcho-capitalism. It covers all the bases, and then some. This is an enjoyable read, an easy read, and at the end of the road lies real insight. Five stars.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org69f4ff0",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1000
+},
+"contents": [
+"---Walter Block, author of ",
+{
+"$$data_type": "org-node",
+"type": "italic",
+"ref": "org90f276c",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"Defending the Undefendable"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org1a0f269",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1057
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orge0e9bc2",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1071
+},
+"contents": [
+"I was dreading reading this, but it is conceptually excellent.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org077584c",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1146
+},
+"contents": [
+"---Michael Malice, author of ",
+{
+"$$data_type": "org-node",
+"type": "italic",
+"ref": "org4a0f870",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"The New Right"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org5b1b9a9",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1192
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org524b75c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1206
+},
+"contents": [
+"This book uses praxeology to define libertarianism based on the non-aggression principle. Ancaps may find the implications disconcerting, or illuminating.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgf6d572d",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1373
+},
+"contents": [
+"---Stephan Kinsella, author of ",
+{
+"$$data_type": "org-node",
+"type": "italic",
+"ref": "org07f0bf7",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"Against Intellectual Property"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org73e2849",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1437
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org56e914f",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1451
+},
+"contents": [
+"For those who enjoy going deep into libertarian theory, the thought experiments and strategies in this book will prove valuable.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org6ae2e25",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1592
+},
+"contents": [
+"---Jakub Bozydar Wisniewski, author of ",
+{
+"$$data_type": "org-node",
+"type": "italic",
+"ref": "org042ea86",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"Libertarian Quandaries"
+]
+},
+"\n"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgd10d92c",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "group-1",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1656,
+"title": [
+"group-1"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org688d66a",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "against-the-state",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1667,
+"title": [
+"against-the-state"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgbda02b7",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "title",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1689,
+"title": [
+"title"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgfadd929",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1700
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org9638b9e",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1700
+},
+"contents": [
+"Against the State\n"
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgd94683d",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "subtitle",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1718,
+"title": [
+"subtitle"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgdf6a929",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1732
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org207407c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1732
+},
+"contents": [
+"An Anarcho-Capitalist Manifesto\n"
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgac0bfdb",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "author",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1764,
+"title": [
+"author"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org5b52e0b",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1776
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd176151",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1776
+},
+"contents": [
+"Llewelln H. Rockwell Jr.\n"
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org0e2d6a5",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "spontaneous-order",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1801,
+"title": [
+"spontaneous-order"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org0929be3",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "title",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1823,
+"title": [
+"title"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org4f4e4de",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1834
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd0f5fe4",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1834
+},
+"contents": [
+"Spontaneous Order\n"
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org3edb4d7",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "subtitle",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1852,
+"title": [
+"subtitle"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org19a4fab",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1866
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org700bb72",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1866
+},
+"contents": [
+"The Capitalist Case For A Stateless Society\n"
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org150b772",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "author",
+"pre-blank": 0,
+"level": 4,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 1910,
+"title": [
+"author"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org18ef9c5",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1922
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orga603ab5",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1922
+},
+"contents": [
+"Chase Rachels\n"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}

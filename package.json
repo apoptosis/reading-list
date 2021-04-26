@@ -1,0 +1,27 @@
+{
+  "name": "reading-list",
+  "version": "0.0.0",
+  "description": "A React reading list",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoptosis/reading-list.git"
+  },
+  "keywords": [
+    "React",
+    "TS",
+    "JS",
+    "Reading",
+    "List",
+    "Flowchart"
+  ],
+  "author": "LiquidZulu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/apoptosis/reading-list/issues"
+  },
+  "homepage": "https://github.com/apoptosis/reading-list#readme"
+}

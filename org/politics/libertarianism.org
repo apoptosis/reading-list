@@ -1,0 +1,85 @@
+#+TITLE:Libertarianism Reading List
+#+AUTHOR:LiquidZulu
+#+DATE:2021-04-24 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* level-0
+** title
+Novice
+** group-0
+*** FLAGS
+CAT-ETHICS,MANDATORY
+*** teac
+**** title
+The Ethics of Anarcho-Capitalism
+**** author
+Kristopher A. Borer
+**** desc
+/The Ethics of Anarcho-Capitalism/ is my favourite libertarian book, if I could reccommend only a single book to goldpill a person this would be it. It is a narrative non-fiction book about libertarianism. It combines praxeology and storytelling to develop ethics in a way that is simple, robust, and fun.
+
+Whether you want a clear introduction or a more advanced understanding, this book will shed libertarianism in a new light.
+
+Here’s what others are saying:
+
+#+begin_quote
+This is an excellent book on anarcho-capitalism. It covers all the bases, and then some. This is an enjoyable read, an easy read, and at the end of the road lies real insight. Five stars.
+#+end_quote
+---Walter Block, author of /Defending the Undefendable/
+
+#+begin_quote
+I was dreading reading this, but it is conceptually excellent.
+#+end_quote
+---Michael Malice, author of /The New Right/
+
+#+begin_quote
+This book uses praxeology to define libertarianism based on the non-aggression principle. Ancaps may find the implications disconcerting, or illuminating.
+#+end_quote
+---Stephan Kinsella, author of /Against Intellectual Property/
+
+#+begin_quote
+For those who enjoy going deep into libertarian theory, the thought experiments and strategies in this book will prove valuable.
+#+end_quote
+---Jakub Bozydar Wisniewski, author of /Libertarian Quandaries/
+** group-1
+*** FLAGS
+CAT-ETHICS
+*** against-the-state
+**** title
+Against the State
+**** subtitle
+An Anarcho-Capitalist Manifesto
+**** author
+Llewelln H. Rockwell Jr.
+*** spontaneous-order
+**** title
+Spontaneous Order
+**** subtitle
+The Capitalist Case For A Stateless Society
+**** author
+Chase Rachels
+*** libertarian-anarchy
+**** title
+Libertarian Anarchy
+**** subtitle
+Against the State
+**** author
+Gerard Casey
+** group-2
+*** FLAGS
+CAT-ETHICS,CAT-STATE-CRITICS
+*** no-treason
+**** title
+No Treason
+**** subtitle
+The Constitution of No Authority
+**** author
+Lysander Spooner
+** group-3
+*** FLAGS
+CAT-STATE-CRITICS
+*** anatomy-of-the-state
+**** title
+Anatomy of the State
+**** author
+Murray N. Rothbard
+** group-4
